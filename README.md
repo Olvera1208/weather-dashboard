@@ -4,7 +4,7 @@
  My Goal is to make weather app that users could use to plan a trip or simply use if they are curios about the weather in their city or any other city.
 
 # Live Link
-
+https://olvera1208.github.io/weather-dashboard/
 
 # my work 
 used api given to create a working weather map also to get longittude and laditude api to get cities.
